@@ -24,4 +24,4 @@ This Excel dashboard provides a visual analysis of e-commerce sales data across 
 - Microsoft Excel 2016 or later
 
 ### 📸 Preview
-![Dashboard Preview](dashboard.jpg)
+![Dashboard Preview](Screenshot 2025-09-16 122745.png)
